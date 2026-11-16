@@ -1,0 +1,21 @@
+Busy Bunny: terms of use
+
+Copyright 2026, the maker of Busy Bunny (GitHub: MorganRAD). All rights reserved.
+
+In plain words
+
+1. You may download Busy Bunny from this page and use it, free, on your own computers, for yourself. A school or organization may let the people it serves use it in the same way.
+2. You may not sell it, rent it, or charge for it.
+3. You may not hand out changed copies, or pass it off as your own work. To share it, send people to this page.
+4. You may not take it apart to copy how it is made, except where the law says you may.
+5. Busy Bunny, its name, its words, its sounds and its characters belong to its maker.
+6. Busy Bunny comes as it is, with no promise that it is free of mistakes or fits a particular need. To the extent the law allows, its maker is not responsible for loss or harm from using it, including lost tasks or missed deadlines. Keep your own backups of anything that matters.
+7. These terms may change with a new version. The terms that come with the version you use are the ones that apply to it.
+
+Other people's work inside Busy Bunny
+
+Busy Bunny includes sound recordings and software made by others, used under their own licences. Help, Licences and credits, inside the app, lists them.
+
+Smarter Bunny
+
+Smarter Bunny is an optional part that uses Claude, made by Anthropic, through your own Claude API key. Your use of that key is under your own agreement with Anthropic, and you pay Anthropic for it.

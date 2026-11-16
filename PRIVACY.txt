@@ -1,0 +1,37 @@
+Busy Bunny: what happens to your information
+
+Last updated for version 0.18.1, November 2026.
+
+The short version
+
+Your tasks stay on your own computer. Busy Bunny has no account, no sign-in, no advertising and no tracking. Its maker never receives your tasks or anything else about you.
+
+What is kept on your computer
+
+Your tasks, lists, settings, points, and everything in Bunny's world are saved in a folder named Busy Bunny inside your Windows AppData folder. Help, About Busy Bunny says exactly where. Busy Bunny also keeps its own daily backup copies there for 30 days. If you choose a second backup folder in Settings, copies go there too. Deleting that folder removes everything.
+
+When Busy Bunny uses the internet
+
+1. Updates. Busy Bunny asks GitHub whether a newer version is on this page, and downloads it. This sends nothing about you beyond what any download does, such as your internet address. Options, Check for updates automatically turns the checking off.
+
+2. Weather, only if you type a town. If you type a town in Settings, Fun and tools, Busy Bunny sends that town's name to Open-Meteo, a weather service, once to find it, and then asks for the weather there about once an hour. Busy Bunny never finds your location by itself. Leave the town empty and nothing is sent.
+
+3. Smarter Bunny, only if you turn it on. Smarter Bunny works only when you put in your own Claude API key. When you talk to it, or when it checks in, briefs you or writes a line, Busy Bunny sends what it needs to Claude, made by Anthropic: your tasks with their names, dates and notes, your class times, what you have told Bunny about yourself, and what you typed. Tasks on lists you mark private are never sent. Anthropic handles that information under its own terms and privacy policy, and under your agreement with them. Your key is kept encrypted on your computer. Without a key, nothing is ever sent to Claude.
+
+4. School connection, only if you set it up. If you connect Canvas or Moodle, Busy Bunny talks to your school's own site, with the address and token you give it, to read your assignments and due dates. The token is kept encrypted on your computer. It is sent only to your school's site.
+
+5. Links you choose to open. Items in the Help menu open web pages in your browser, such as this page.
+
+That is everything. Busy Bunny sends nothing else anywhere.
+
+Reporting a problem
+
+Issues on this page are public. Leave out anything private.
+
+Children
+
+Busy Bunny is not aimed at children under 13 and collects nothing from anyone.
+
+Changes
+
+If a new version sends or keeps anything new, this file changes with it, and the version's notes say so.
